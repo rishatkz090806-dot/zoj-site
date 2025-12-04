@@ -1,5 +1,3 @@
-# zoj-site
-https://github.io/zoj-site/
 <!DOCTYPE html>
 <html lang="ru">
 <head>
