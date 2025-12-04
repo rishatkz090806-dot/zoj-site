@@ -1,5 +1,5 @@
 # zoj-site
-https://ваш_логин.github.io/zoj-site/
+https://github.io/zoj-site/
 <!DOCTYPE html>
 <html lang="ru">
 <head>
